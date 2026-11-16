@@ -1,13 +1,13 @@
 Himachal Pradesh (9D/8N)
 
 Day 1 15th Jan Friday (Mumbai → Chandigarh):
-- 15th Jan 18:43 train from BDTS to Ambala Cant Jn (reach 19:05 16th Jan) — ~1,600 km, ~24 hrs
+- 15th Jan 18:43 train from BDTS to Ambala Cant Jn (reach 19:05 16th Jan) — ~1,570 km, ~24 hrs
 
 Day 2 16th Jan Saturday (Chandigarh → Manali):
 
-- 16th jan Train (19:53) to Chandigarh (20:30) — Ambala → Chandigarh ~45 km
+- 16th jan Train (19:53) to Chandigarh (20:30) — Ambala → Chandigarh ~45–65 km by rail
 - Chandigarh station → ISBT Sector 43 bus stand: ~10 km, ~25 min by cab/auto (check which stand your bus leaves from)
-- HRTC Bus Last bus until 23:00, we'll catch 21:05 — Chandigarh → Manali ~300 km, ~10 hrs
+- HRTC Bus Last bus until 23:00, we'll catch 21:05 — Chandigarh → Manali ~310 km, ~10 hrs
 - Reach Manali at 7 am (17th Jan):
 - Hotel check-in
 
@@ -32,9 +32,9 @@ Day 4 (18th Jan Monday) — Manali → Atal Tunnel → Sissu → Solang → Mana
 - 6:00–6:30 AM — Breakfast
 - 7:00 AM — Leave Manali (Sissu first; traffic towards the tunnel builds up by late morning)
 
-Manali → Solang (~14 km) → Atal Tunnel South Portal (~11 km)
+Manali → Solang (~14 km) → Atal Tunnel South Portal (~12 km)
 Stop 1: Atal Tunnel, ~9 km long (no stopping inside; photos at the North Portal)
-Stop 2: Sissu, North Portal → Sissu ~6 km (~40 km / ~1.5–2 hrs from Manali in total)
+Stop 2: Sissu, North Portal → Sissu ~6–10 km (~40 km / ~1.5–2 hrs from Manali in total)
 Do:
 - Sissu viewpoint
 - Chandra River area
@@ -74,7 +74,7 @@ Afternoon — Kullu → Bhuntar (~10 km) → Kasol (~31 km), ~1.5 hrs; around 1�
 Check into your hotel, lunch.
 
 2:30–4:00 PM — 🥾 Chalal trek (if willing):
-- ~2 km each way on foot, ~30–40 min one way
+- ~2–2.5 km each way on foot, ~30–45 min one way
 - Starts from Kasol across the Parvati River bridge; easy walk along the river through pine forest
 - Wear shoes with good grip, shaded parts of the trail can be icy in January
 
@@ -95,9 +95,9 @@ Visit:
 
 🛏️ Overnight: Kasol
 
-Day 6 (20th Jan Wednesday) — Kasol → Bir + Paragliding (~170 km):
+Day 6 (20th Jan Wednesday) — Kasol → Bir + Paragliding (~155–200 km):
 - 6:00 AM — Wake up, breakfast, pack
-- 7:00 AM — Kasol → Bhuntar (~31 km) → Mandi (~60 km) → Jogindernagar (~55 km) → Bir (~23 km), ~5.5–6 hrs
+- 7:00 AM — Kasol → Bhuntar (~31 km) → Mandi (~55 km) → Jogindernagar (~55 km) → Bir (~16 km), ~5.5–6 hrs
 - 12:30–1:00 PM — Arrive Bir, check in, lunch
 
 2:00–3:00 PM — PARAGLIDING: Billing → Bir
@@ -113,13 +113,14 @@ Evening:
 
 🛏️ Overnight: Bir
 
-Day 7 (21st Jan Thursday) — Bir → Barot Valley 🌲🏔️ (~65 km, ~3 hrs):
+Day 7 (21st Jan Thursday) — Bir → Barot Valley 🌲🏔️ (~55–80 km, ~3 hrs):
 - 8:00 AM — Breakfast
 - 8:30–10:30 AM — Backup paragliding slot (if yesterday got cancelled), otherwise final Bir exploration:
   - Monastery
   - Tea gardens
 - 11:00 AM — Leave Bir
-Route: Bir → Jogindernagar (~23 km) → Ghatasani (~15 km) → Barot (~25 km)
+Route: Bir → Jogindernagar (~16 km) → Ghatasani (~14 km) → Barot (~25 km)
+(Shortcut: the newer Bir–Billing–Barot road is only ~38 km, but it climbs over the Dhauladhar and may be snowbound in January; ask in Bir whether it's open)
 (The Ghatasani–Barot road can get snow in January; check the day before)
 - ~2:00–3:00 PM — Reach Barot
 Check in to a valley-view/riverside homestay and have lunch.
@@ -139,14 +140,14 @@ Dinner at the homestay.
 
 🛏️ Overnight: Barot
 
-Day 8 (22nd Jan Friday) — Barot → Amritsar 🛕🇮🇳 (~320 km, ~9 hrs):
+Day 8 (22nd Jan Friday) — Barot → Amritsar 🛕🇮🇳 (~320–370 km, ~9–10 hrs):
 - 8:00–9:00 AM — Breakfast
 - Morning in Barot: walk along the Uhl River, morning photos, relax at the homestay
 - 12:00 PM — Leave Barot (the Barot–Ghatasani stretch is best around midday, when any ice has melted)
-Route: Barot → Ghatasani (~25 km) → Jogindernagar (~15 km) → Baijnath (~26 km) → Palampur (~17 km) → Kangra (~35 km) → Pathankot (~90 km) → Amritsar (~110 km)
+Route: Barot → Ghatasani (~25 km) → Jogindernagar (~14 km) → Baijnath (~26 km) → Palampur (~17 km) → Kangra (~35 km) → Pathankot (~90 km) → Amritsar (~108 km)
 - ~2:30 PM — Lunch on the way (Baijnath/Palampur)
 - ~6:30–7:00 PM — Pathankot (dark by now; the plains stretch to Amritsar can get foggy at night, so let the driver take it slow)
-- ~9:00–10:00 PM — Reach Amritsar, hotel check-in, dinner
+- ~9:30–10:30 PM — Reach Amritsar, hotel check-in, dinner
 - Golden Temple: tomorrow early morning (or a short late-night visit if you have the energy, it's open all night)
 
 🛏️ Overnight: Amritsar
@@ -157,7 +158,7 @@ Day 9 (23rd Jan Saturday) — Amritsar → Mumbai 🚆:
 - Partition Museum (Town Hall, ~500 m walk)
 - Lunch: Amritsari kulcha + lassi
 - Wagah Border ceremony (~30 km from Amritsar, ~45 min) — late afternoon (~4:15–4:30 PM in winter, reach ~1.5 hrs early for seats; Saturday = bigger crowd). Only if the train leaves after ~8 PM
-- Train to Mumbai: ___ (add train no. + time). ~1,900 km, ~30+ hrs journey, reach Mumbai ~24/25 Jan
+- Train to Mumbai: ___ (add train no. + time). ~1,850–1,900 km, ~29–31 hrs journey, reach Mumbai ~24/25 Jan
 
 -----------------------------------------------------------
 
@@ -165,3 +166,4 @@ Notes:
 - Cab: local Manali taxi for Day 4; one multi-day cab from Manali for Days 5–8 (one-way drop at Amritsar usually includes the driver's return fare)
 - Carry cash (few ATMs around Sissu); fill fuel before the tunnel
 - Finish every hill drive before dark (~5:30 PM in January)
+- Distances are approximate (checked against travel/cab sites, which often disagree); confirm on Google Maps before booking the cab
