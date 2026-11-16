@@ -88,7 +88,7 @@ Scenarios:
 🛏️ Overnight: Manali
 
 Day 5 (19th Jan Tuesday) — Manali → Kullu → Kasol → Manikaran (~90 km):
-- Check out. From today, use one multi-day cab (Manali → Kasol → Bir → Barot → Amritsar)
+- Check out. Local buses today (see TRANSPORT & BOOKINGS at the end)
 - 8:00 AM — Leave Manali: Manali → Kullu ~40 km, ~1.5 hrs
 - 9:00–10:00 AM — Kullu (spend 2 hrs here)
 Visit:
@@ -192,7 +192,69 @@ Day 9 (23rd Jan Saturday) — Amritsar → Mumbai 🚆:
 -----------------------------------------------------------
 
 Notes:
-- Cab: local Manali taxi for Day 4; one multi-day cab from Manali for Days 5–8 (one-way drop at Amritsar usually includes the driver's return fare)
+- Transport: see TRANSPORT & BOOKINGS below
 - Carry cash (few ATMs around Sissu); fill fuel before the tunnel
 - Finish every hill drive before dark (~5:30 PM in January)
 - Distances are approximate (checked against travel/cab sites, which often disagree); confirm on Google Maps before booking the cab
+
+-----------------------------------------------------------
+
+TRANSPORT & BOOKINGS (group of 6, local transport)
+(Timings/fares from booking sites and travel guides, Nov 2026. They often disagree, so recheck a few days before.)
+
+📅 Booking calendar (trains and HRTC open 60 days ahead; IRCTC opens at 8 AM):
+- 16 Nov 2026 (TODAY) → BDTS → Ambala Cantt train for 15 Jan
+- 17 Nov 2026 → 12005 Kalka Shatabdi Ambala → Chandigarh (16 Jan) + HRTC bus Chandigarh → Manali (16 Jan)
+- 24 Nov 2026 → Amritsar → Mumbai train (23 Jan)
+- One IRCTC ticket (PNR) takes up to 6 passengers, so all 6 fit on one booking
+
+Day 2 (16 Jan) Ambala → Chandigarh → Manali:
+- Ambala Cantt → Chandigarh: 12005 Kalka Shatabdi, 19:53 → 20:30 (daily). Book chair car (CC) on IRCTC
+- Chandigarh station → ISBT Sector 43: Uber/Ola XL or 2 autos, ~25 min
+- ISBT 43 → Manali: HRTC HimSuta Volvo ~21:30 / 22:00 (reaches ~8 AM), ~₹900–1,500 per seat;
+  ordinary HRTC buses until ~23:00. Book 6 seats on online.hrtchp.com (or redBus)
+- Prefer the ~22:00 Volvo over 21:05: buffer if the Mumbai train runs late in the fog
+- Backup: private Volvos also leave from opposite ISBT 43 late in the evening
+
+Day 3 (17 Jan) Manali → Solang → Manali:
+- Manali taxi union SUV (Innova/Scorpio, fits 6): ~₹2,000–4,500 per vehicle for Solang round trip
+- Hadimba / Old Manali: walk or autos
+
+Day 4 (18 Jan) Manali → Sissu → Manali:
+- Manali taxi union 4x4 SUV (Scorpio) with snow chains: ~₹3,000–6,000 per vehicle; book the evening before
+- The HRTC Manali → Keylong bus passes Sissu, but winter services are few and the return is unreliable → take the taxi
+
+Day 5 (19 Jan) Manali → Kullu → Kasol → Manikaran:
+- Manali → Kullu: frequent HRTC/private local buses from Manali bus stand (~1.5 hrs), no booking, pay on board
+- Kullu → Bhuntar → Kasol: buses towards Manikaran from Kullu/Bhuntar (~1–1.5 hrs)
+- Kasol ↔ Manikaran: the same Bhuntar–Manikaran local buses (run ~6 AM–6:30 PM) or a shared taxi
+- Carry cash for bus tickets
+
+Day 6 (20 Jan) Kasol → Bir:
+- No direct daytime bus. Bus route: Kasol → Bhuntar (early bus) → HRTC bus towards Baijnath/Palampur/Dharamshala
+  via Mandi–Jogindernagar → get off at the Bir turn-off → local taxi to Bir.
+  ~6–7 hrs with changes, reaching ~1–2 PM: too tight for a 2 PM paragliding slot
+- Recommended: one-way taxi for 6 (Innova Crysta / Ertiga), ~₹4,000–6,000 per vehicle (~₹700–1,000 each), leave 7 AM
+- The paragliding operator picks you up in Bir and drives you up to Billing
+
+Day 7 (21 Jan) Bir → Barot:
+- Bus from Bir (Chowgan Chowk) towards Jogindernagar/Barot, or bus to Jogindernagar and change for Barot
+- From Ghatasani: shared jeeps/buses to Barot every 45–60 min until ~5 PM (~₹50–60 each)
+- Buses to/from Barot get scarce after ~4 PM in winter
+
+Day 8 (22 Jan) Barot → Amritsar:
+- Direct HRTC buses to Amritsar leave Baijnath/Palampur only in the morning (last ~11:15 AM / ~11:50 AM, ~7.5 hrs),
+  so leaving Barot at 12 PM by bus doesn't work
+- Recommended: one-way taxi Barot → Amritsar (Ertiga/Innova), ~₹4,000–6,000 per vehicle (~₹700–1,000 each)
+- Bus option only if you leave Barot by ~7 AM: jeep/bus to Jogindernagar → HRTC bus to Amritsar (arrive ~6–7 PM)
+
+Day 9 (23 Jan) Amritsar → Mumbai:
+- Golden Temple, Jallianwala Bagh, Partition Museum: all walking distance
+- Wagah: shared rickshaws from around the Golden Temple, ~₹150 each, leave ~2 PM in winter
+- Trains to Mumbai:
+  - 12904 Golden Temple Mail: 18:55 → Mumbai Central next day ~23:35 (~29 hrs)
+  - 12926 Paschim Express: 07:20 → Bandra Terminus next day ~14:40 (~31 hrs)
+- ⚠️ Wagah (back in town ~6:30–7 PM) clashes with the 18:55 train: either skip Wagah,
+  or stay one more night and take Paschim Express at 07:20 on 24 Jan
+
+Luggage: Innova Crysta / Ertiga seat 6 passengers but luggage space is tight; ask for a roof carrier or take a Tempo Traveller
